@@ -1,0 +1,12 @@
+{
+  "name": "JsVars",
+  "version": "0.0.3",
+  "main": "Jsvars.php",
+  "description": "Put values from phalcon to javascript (arrays to objects) ",
+  "author": "@ivancduran",
+  "license": {
+    "type": "MIT",
+    "url": ""
+  },
+  "repository": "git@github.com:ivancduran/Jsvarsppm.git"
+}
