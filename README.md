@@ -1,4 +1,4 @@
-Language
+JsVars
 ==================
 
 Installation & Configuration
@@ -6,7 +6,7 @@ Installation & Configuration
 
 To install
 
-    ppm install language
+    ppm install jsvars
 
 
 example to add library:
